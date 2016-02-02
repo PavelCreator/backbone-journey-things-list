@@ -1,0 +1,56 @@
+[
+  {
+    "id": "hygiene",
+    "name": "Гигиена",
+    "short_name": "Гигиена",
+    "visibility": "visible"
+  },
+  {
+    "id": "electronic",
+    "name": "Электроника",
+    "short_name": "Электроника",
+    "visibility": "visible"
+  },
+  {
+    "id": "medicine",
+    "name": "Аптечка",
+    "short_name": "Аптечка",
+    "visibility": "visible"
+  },
+  {
+    "id": "summer",
+    "name": "Лето",
+    "short_name": "Лето",
+    "visibility": "visible"
+  },
+  {
+    "id": "clothes",
+    "name": "Одежда",
+    "short_name": "Одежда",
+    "visibility": "visible"
+  },
+  {
+    "id": "footwear",
+    "name": "Обувь",
+    "short_name": "Обувь",
+    "visibility": "visible"
+  },
+  {
+    "id": "camping",
+    "name": "Туристическое снаряжение",
+    "short_name": "Походы",
+    "visibility": "visible"
+  },
+  {
+    "id": "household",
+    "name": "Бытовые принадлежности",
+    "short_name": "Быт",
+    "visibility": "visible"
+  },
+  {
+    "id": "trivia",
+    "name": "Мелочи",
+    "short_name": "Мелочи",
+    "visibility": "visible"
+  }
+]

@@ -1,0 +1,492 @@
+[
+  {
+    "id": "1",
+    "title": "шампунь",
+    "group": "hygiene",
+    "gender": "male female",
+    "status": "incomplete"
+  },
+  {
+    "id": "2",
+    "title": "расчёска",
+    "group": "hygiene",
+    "gender": "male female",
+    "status": "incomplete"
+  },
+  {
+    "id": "3",
+    "title": "зубная щётка",
+    "group": "hygiene",
+    "gender": "male female",
+    "status": "incomplete"
+  },
+  {
+    "id": "4",
+    "title": "зубная паста",
+    "group": "hygiene",
+    "gender": "male female",
+    "status": "incomplete"
+  },
+  {
+    "id": "5",
+    "title": "мыло",
+    "group": "hygiene",
+    "gender": "male female",
+    "status": "incomplete"
+  },
+  {
+    "id": "6",
+    "title": "влажные салфетки",
+    "group": "hygiene",
+    "gender": "male female",
+    "status": "incomplete"
+  },
+  {
+    "id": "7",
+    "title": "туалетная бумага",
+    "group": "hygiene",
+    "gender": "male female",
+    "status": "incomplete"
+  },
+  {
+    "id": "8",
+    "title": "бритва",
+    "group": "hygiene",
+    "gender": "male",
+    "status": "incomplete"
+  },
+  {
+    "id": "9",
+    "title": "средства личной гигиены",
+    "group": "hygiene",
+    "gender": "female",
+    "status": "incomplete"
+  },
+  {
+    "id": "10",
+    "title": "резинка для волос",
+    "group": "hygiene",
+    "gender": "female",
+    "status": "incomplete"
+  },
+  {
+    "id": "11",
+    "title": "краб для волос",
+    "group": "hygiene",
+    "gender": "female",
+    "status": "incomplete"
+  },
+  {
+    "id": "12",
+    "title": "бальзам для волос",
+    "group": "hygiene",
+    "gender": "female",
+    "status": "incomplete"
+  },
+  {
+    "id": "13",
+    "title": "помазок",
+    "group": "hygiene",
+    "gender": "male",
+    "status": "incomplete"
+  },
+  {
+    "id": "14",
+    "title": "крем для бритья",
+    "group": "hygiene",
+    "gender": "male",
+    "status": "incomplete"
+  },
+  {
+    "id": "15",
+    "title": "нитка с иголкой",
+    "group": "household",
+    "gender": "female",
+    "status": "incomplete"
+  },
+  {
+    "id": "16",
+    "title": "скотч",
+    "group": "household",
+    "gender": "male female",
+    "status": "incomplete"
+  },
+  {
+    "id": "17",
+    "title": "зажигалка",
+    "group": "household",
+    "gender": "male female",
+    "status": "incomplete"
+  },
+  {
+    "id": "18",
+    "title": "суперклей",
+    "group": "household",
+    "gender": "male female",
+    "status": "incomplete"
+  },
+  {
+    "id": "19",
+    "title": "мультитул",
+    "group": "household",
+    "gender": "male",
+    "status": "incomplete"
+  },
+  {
+    "id": "20",
+    "title": "кепка",
+    "group": "summer",
+    "gender": "male female",
+    "status": "incomplete"
+  },
+  {
+    "id": "21",
+    "title": "солнечные очки",
+    "group": "summer",
+    "gender": "male female",
+    "status": "incomplete"
+  },
+  {
+    "id": "22",
+    "title": "крем от солнца",
+    "group": "summer",
+    "gender": "male female",
+    "status": "incomplete"
+  },
+  {
+    "id": "23",
+    "title": "крем для загара",
+    "group": "summer",
+    "gender": "female",
+    "status": "incomplete"
+  },
+  {
+    "id": "24",
+    "title": "фумигатор с пластинами",
+    "group": "summer",
+    "gender": "male female",
+    "status": "incomplete"
+  },
+  {
+    "id": "25",
+    "title": "спрей от комаров",
+    "group": "summer",
+    "gender": "male female",
+    "status": "incomplete"
+  },
+  {
+    "id": "26",
+    "title": "спиннинг и снасти",
+    "group": "summer",
+    "gender": "male",
+    "status": "incomplete"
+  },
+  {
+    "id": "27",
+    "title": "книга",
+    "group": "trivia",
+    "gender": "male female",
+    "status": "incomplete"
+  },
+  {
+    "id": "28",
+    "title": "ключи",
+    "group": "trivia",
+    "gender": "male female",
+    "status": "incomplete"
+  },
+  {
+    "id": "29",
+    "title": "карты",
+    "group": "trivia",
+    "gender": "male female",
+    "status": "incomplete"
+  },
+  {
+    "id": "30",
+    "title": "зонт",
+    "group": "trivia",
+    "gender": "male female",
+    "status": "incomplete"
+  },
+  {
+    "id": "31",
+    "title": "мобильный телефон",
+    "group": "electronic",
+    "gender": "male female",
+    "status": "incomplete"
+  },
+  {
+    "id": "32",
+    "title": "заряднок к мобильному",
+    "group": "electronic",
+    "gender": "male female",
+    "status": "incomplete"
+  },
+  {
+    "id": "33",
+    "title": "планшет",
+    "group": "electronic",
+    "gender": "male female",
+    "status": "incomplete"
+  },
+  {
+    "id": "34",
+    "title": "зарядное к планшету",
+    "group": "electronic",
+    "gender": "male female",
+    "status": "incomplete"
+  },
+  {
+    "id": "35",
+    "title": "цифровой фотоаппарат",
+    "group": "electronic",
+    "gender": "male female",
+    "status": "incomplete"
+  },
+  {
+    "id": "36",
+    "title": "зарядное и переходник к цифровику",
+    "group": "electronic",
+    "gender": "male female",
+    "status": "incomplete"
+  },
+  {
+    "id": "37",
+    "title": "запасная батарея к мобильному",
+    "group": "electronic",
+    "gender": "male female",
+    "status": "incomplete"
+  },
+  {
+    "id": "38",
+    "title": "депилятор",
+    "group": "electronic",
+    "gender": "female",
+    "status": "incomplete"
+  },
+  {
+    "id": "39",
+    "title": "палатка",
+    "group": "camping",
+    "gender": "male",
+    "status": "incomplete"
+  },
+  {
+    "id": "40",
+    "title": "каремат",
+    "group": "camping",
+    "gender": "male female",
+    "status": "incomplete"
+  },
+  {
+    "id": "41",
+    "title": "походная подушка",
+    "group": "camping",
+    "gender": "male female",
+    "status": "incomplete"
+  },
+  {
+    "id": "42",
+    "title": "рюкзак",
+    "group": "camping",
+    "gender": "male female",
+    "status": "incomplete"
+  },
+  {
+    "id": "43",
+    "title": "походная обувь",
+    "group": "camping",
+    "gender": "male female",
+    "status": "incomplete"
+  },
+  {
+    "id": "44",
+    "title": "плавки",
+    "group": "summer",
+    "gender": "male",
+    "status": "incomplete"
+  },
+  {
+    "id": "45",
+    "title": "купальник",
+    "group": "summer",
+    "gender": "female",
+    "status": "incomplete"
+  },
+  {
+    "id": "46",
+    "title": "котелок",
+    "group": "camping",
+    "gender": "male",
+    "status": "incomplete"
+  },
+  {
+    "id": "47",
+    "title": "фестал (мезим)",
+    "group": "medicine",
+    "gender": "male female",
+    "status": "incomplete"
+  },
+  {
+    "id": "48",
+    "title": "йод (спирт)",
+    "group": "medicine",
+    "gender": "male female",
+    "status": "incomplete"
+  },
+  {
+    "id": "49",
+    "title": "бинт",
+    "group": "medicine",
+    "gender": "male female",
+    "status": "incomplete"
+  },
+  {
+    "id": "50",
+    "title": "пластырь",
+    "group": "medicine",
+    "gender": "male female",
+    "status": "incomplete"
+  },
+  {
+    "id": "51",
+    "title": "цитрамон",
+    "group": "medicine",
+    "gender": "male female",
+    "status": "incomplete"
+  },
+  {
+    "id": "52",
+    "title": "солпадеин",
+    "group": "medicine",
+    "gender": "male female",
+    "status": "incomplete"
+  },
+  {
+    "id": "53",
+    "title": "вата",
+    "group": "medicine",
+    "gender": "male female",
+    "status": "incomplete"
+  },
+  {
+    "id": "54",
+    "title": "ватные палочки",
+    "group": "medicine",
+    "gender": "male female",
+    "status": "incomplete"
+  },
+  {
+    "id": "55",
+    "title": "эластичный бинт",
+    "group": "medicine",
+    "gender": "male female",
+    "status": "incomplete"
+  },
+  {
+    "id": "56",
+    "title": "нижнее бельё",
+    "group": "clothes",
+    "gender": "male female",
+    "status": "incomplete"
+  },
+  {
+    "id": "57",
+    "title": "носки",
+    "group": "clothes",
+    "gender": "male female",
+    "status": "incomplete"
+  },
+  {
+    "id": "58",
+    "title": "шорты",
+    "group": "clothes",
+    "gender": "male female",
+    "status": "incomplete"
+  },
+  {
+    "id": "59",
+    "title": "футболки",
+    "group": "clothes",
+    "gender": "male female",
+    "status": "incomplete"
+  },
+  {
+    "id": "60",
+    "title": "свитер",
+    "group": "clothes",
+    "gender": "male female",
+    "status": "incomplete"
+  },
+  {
+    "id": "61",
+    "title": "джинсы",
+    "group": "clothes",
+    "gender": "male female",
+    "status": "incomplete"
+  },
+  {
+    "id": "62",
+    "title": "гамаши",
+    "group": "clothes",
+    "gender": "male female",
+    "status": "incomplete"
+  },
+  {
+    "id": "63",
+    "title": "юбка",
+    "group": "clothes",
+    "gender": "female",
+    "status": "incomplete"
+  },
+  {
+    "id": "64",
+    "title": "платье",
+    "group": "clothes",
+    "gender": "female",
+    "status": "incomplete"
+  },
+  {
+    "id": "65",
+    "title": "куртка",
+    "group": "clothes",
+    "gender": "male female",
+    "status": "incomplete"
+  },
+  {
+    "id": "66",
+    "title": "шапка, перчатки, шарф",
+    "group": "clothes",
+    "gender": "male female",
+    "status": "incomplete"
+  },
+  {
+    "id": "67",
+    "title": "кроссовки",
+    "group": "footwear",
+    "gender": "male female",
+    "status": "incomplete"
+  },
+  {
+    "id": "68",
+    "title": "туфли",
+    "group": "footwear",
+    "gender": "male female",
+    "status": "incomplete"
+  },
+  {
+    "id": "69",
+    "title": "тапочки (босоножки)",
+    "group": "footwear",
+    "gender": "male female",
+    "status": "incomplete"
+  },
+  {
+    "id": "70",
+    "title": "сапоги",
+    "group": "footwear",
+    "gender": "male female",
+    "status": "incomplete"
+  }
+]
