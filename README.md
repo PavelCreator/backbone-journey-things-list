@@ -1,4 +1,4 @@
-<h1>List of things for the journey (with filtering and strikethrough)</h1>
+<h1>List of things for the journey</h1>
 <h3>The first project on the Backbone.js. It is written in 1 day</h3>
 <h3><a href="http://pavelcreator.com/backbone-list">Demo</a></h3>
 <h5>This project:</h5>
