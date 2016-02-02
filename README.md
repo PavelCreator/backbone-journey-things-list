@@ -9,5 +9,5 @@
   <li>... data is <strong>extracted from the JSON</strong> files (entity-collections) - sections.json and items.json</li>
   <li>... when selecting checkbox its <strong>title crossed out</strong>, in sections-triggers logic is reverse</li>
   <li>... application is <strong>responsive</strong> through the use of Bootstrap</li>
-  <li>... at this point does not change the initial data (because Back-End part is not written)</li>
+  <li>... at this point app does not change the initial data (because Back-End part is not written)</li>
 </ul>
